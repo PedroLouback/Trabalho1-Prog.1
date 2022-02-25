@@ -3,7 +3,6 @@ Trabalho 1 de Programação de Computadores 1
 [![Linguagem C](https://img.shields.io/badge/Linguagem-C-green.svg)](https://github.com/PedroLouback/TrabalhoFinal-Prog.2)
 [![IDE](https://img.shields.io/badge/IDE-Dev--C%2B%2B-orange.svg)](http://orwelldevcpp.blogspot.com/)
 
-# Trabalho1-Prog.1
  Primeiro trabalho feito durante o 1º período na matéria de `Programação de Computadores 1 do curso de Engenharia da Computação no CEFET-MG Campus Divinópolis`. Neste trabalho foi utilizado estruturas de decisões e de repetições na linguagem C.
 
 ## Enunciado e observações
